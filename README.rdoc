@@ -6,4 +6,4 @@
 Similar to an workout logging application, this app can track learning progress and interact with other learners.
 
 ---
-Originally from 12/12 challenge by MackenzieChild [http://mackenziechild.me]
+Tutorial of making this app is from 12/12 challenge by MackenzieChild
