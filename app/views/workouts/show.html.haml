@@ -5,10 +5,10 @@
 	%p= @workout.length
 
 #exercises
-	%h2 Exercises
+	%h2 Comments
 	= render @workout.exercises
 
-	%h3 Add an exercise
+	%h3 Feedback
 	= render "exercises/form"
 
 = link_to "Back", root_path
